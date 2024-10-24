@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.search-container {
+  display: flex;
+  flex-direction: row;
+}
+.heading {
+  color: #252627;
+  font-size: 20px;
+}
+
+.search-containerf {
+  display: flex;
+  flex-direction: row;
+}
+
+.input {
+  padding: 10px;
+  border-radius: 10px;
+}

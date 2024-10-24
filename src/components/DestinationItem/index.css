@@ -1,0 +1,20 @@
+/* Write your CSS here */
+* {
+  list-style-type: none;
+}
+
+.list-container {
+  margin: 10px;
+  flex-wrap: wrap;
+}
+
+.imgstyle {
+  width: 220px;
+  height: 150px;
+}
+
+.heading {
+  font-family: 'Roboto';
+  font-size: 5px;
+  font-weight: bold;
+}
